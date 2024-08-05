@@ -1,10 +1,10 @@
 
 # Hello! 👋
 
-Welcome to my page. I'm a backend developer and mostly write in Python. 
-I graduated from the Russian University of Transport Russia, Moscow (Bachelor, end of 2021). My specialty is business informatics.
-Also studied in Germany, the city of Deggendorf, at THD University, majoring in Mediatechnik.
-Below you will find stack, very glad to see you here!
+*Welcome to my page.* <div>I'm a backend developer and mostly write in Python.</div>
+<div> I graduated from the Russian University of Transport Russia, Moscow (Bachelor, end of 2021). My specialty is business informatics.
+Also studied in Germany, the city of Deggendorf, at THD University, majoring in Mediatechnik.</div> &nbsp;
+<div> Below you will find stack, very glad to see you here!  </div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,docker,fastapi,flask,git,mongodb,nginx,postgres,postman,redis,vscode,html)](https://skillicons.dev)
 
